@@ -1,0 +1,8 @@
+/ [NAME]
+|-- /templates
+|   |-- index.html
+|-- /app
+|   |-- __init__.py
+|   |-- routes.py
+|   |-- models.py
+|-- run.py
